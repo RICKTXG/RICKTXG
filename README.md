@@ -3,11 +3,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ricktxg&label=Profile%20views&color=0e75b6&style=flat" alt="ricktxg" /> </p>
 
-- 🔭 I’m currently working on bootstrap! [Web designing!](Comming soon!)
+- 🔭 I’m currently working on my team! (Comming soon!)
 
-- 🌱 I’m currently learning **App development!**
+- 🌱 I’m currently learning **DSA**
 
-- 👨‍💻 All of my projects are available at [Comming soon!](Comming soon!)
+- 👨‍💻 All of my projects are available in github.(Comming soon!)
 
 - 📫 How to reach me **ghakuzh@gmail.com**
 
