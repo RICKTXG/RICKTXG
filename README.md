@@ -1,13 +1,13 @@
 
 <h1 align="center">Hi 👋, I'm Rajdip Dey</h1>
-<h3 align="center">A passionate app developer from India</h3>
+<h3 align="center">A passionate app developer</h3>
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ricktxg&label=Profile%20views&color=0e75b6&style=flat" alt="ricktxg" /> </p>
 
-- 🔭 I’m currently working on **App UI + Logics**
+- 🔭 I’m currently working on **App Dev + Logics**
 
-- 🌱 I’m currently learning **Python**
+- 🌱 I’m currently learning **Kotlin**
 
 - 💬 Ask me about **Fullstack,Mern Stack,DSA,Android**
 
