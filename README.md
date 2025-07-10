@@ -11,7 +11,6 @@
 
 - 💬 Ask me about **Fullstack,Mern Stack,DSA,Android**
 
-- 📫 How to reach me **ghakuzh@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
